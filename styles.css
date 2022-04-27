@@ -1,0 +1,93 @@
+h1 {
+    color: crimson;
+    text-align: center;
+    background-color:lightgray;
+}
+
+h2 {
+    color: green;
+    background-color: lightgray;
+}
+
+p {
+    padding-top: 300;
+    text-align: center;
+    color: green;
+    background-color: lightgrey;
+}
+
+a {
+    text-align: center;
+    color: white;
+} 
+
+.HomepagePic {
+    width: 33%;
+    height: 600px;
+}
+
+.middleLeftPic {
+    height: 454px;
+}
+
+.RightPic {
+    height: 454px;
+}
+
+.lunchPics {
+    height: 454px;
+}
+
+.dinnerPics {
+    height: 454px;
+}
+
+img {
+    margin: auto;
+    width: 24%;
+    height: 10%%
+    display: block;
+}
+
+ul {
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+  
+    margin: auto;
+    padding: 0%;
+    color: green;
+}
+
+ul li {
+    border: outset ;
+    display: inline-block;
+    padding-left: 33px;
+    padding-right: 33px;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+ul li a {
+   display: block;
+   margin: 0;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   
+  
+}
+
+ body {
+    background-image: url(images/Italian\ Food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+} 
+
+.HomePageBackroundImage {
+    background-image: url(images/Italian\ Food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align: middle;
+}
